@@ -4,7 +4,7 @@
 <!-- Intro Info Section -->
 <img align="right" width="40%" height="30%" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" /> <br>
 - My name is Atta ul Noor
-- I am doing my bachelor's in computer science from Ubit
+- I am doing my bachelor's in computer science
 - I am a Web Developer
 - My residence is in Karachi, Pakistan
 <br><br><br><br><br><br><br><br><br>
