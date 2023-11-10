@@ -6,8 +6,8 @@
 <h1>About me</h1>
 
   - My name is Atta ul Noor
-  - I am doing my bachelor's in Computer Science
-  - I am a aspiring Web Developer
+  - I am doing my bachelor's in Computer Science from Univeristy of Karachi
+  - I am a aspiring Front-end Web Developer
   - I currently reside in Karachi, Pakistan
 <br><br><br><br><br><br><br><br><br><br>
 
