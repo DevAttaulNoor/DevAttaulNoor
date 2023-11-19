@@ -7,7 +7,7 @@
 
   - My name is Atta ul Noor
   - I am doing my bachelor's in Computer Science from University of Karachi
-  - I am a aspiring Front-end Web Developer
+  - I am a aspiring front-end Web Developer
   - I currently reside in Karachi, Pakistan
 <br><br><br><br><br><br><br><br><br>
 
