@@ -1,5 +1,6 @@
 <!-- Intro Tagline Section -->
 <h1 align="center">Hello Everyone 👋</h1>
+
 <!-- Intro Info Section -->
 <h1>About me</h1>
 <p>
