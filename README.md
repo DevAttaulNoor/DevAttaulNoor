@@ -4,9 +4,9 @@
 
 <!-- Intro Info Section -->
 <h1>About me</h1>
-<li>Completed my Bachelor of Science in Computer Science (BSCS) from University of Karachi, UBIT.</li>
-<li>Web Developer with a passion for technology and a thirst for learning.</li>
-<li>Eager to take on new challenges and collaborate with others to create innovative solutions.</li>
+<li>I have completed my Bachelor of Science in Computer Science (BSCS) from University of Karachi, UBIT.</li>
+<li>Frontend Web Developer with a passion for technology and a thirst for learning and collaborate with others to create innovative solutions. </li>
+<li>Also exploring the Backend technologies for Web Apps. </li>
 <br>
 
 <!-- Portfolio Section -->
@@ -25,7 +25,7 @@
   ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  <!--  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
   ![ReduxToolkit](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   ![React Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
