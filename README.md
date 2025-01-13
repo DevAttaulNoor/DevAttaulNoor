@@ -1,6 +1,6 @@
 <!-- Intro Tagline Section -->
 <h1 align="center">Hello Everyone 👋, Atta here</h1>
-<h3 align="center">Aspiring Full Stack Software Engineer specializing in Web Development</h3>
+<h3 align="center">Software Engineer specialized in Web Apps Development</h3>
 
 <!-- Intro Info Section -->
 <h1>About me</h1>
