@@ -2,22 +2,15 @@
 <h1 align="center">Hi there 👋, I'm Atta</h1>
 <h3 align="center">Frontend Engineer | Aspiring Full-Stack Developer</h3>
 
----
-
 ## 🚀 About Me
 - 🎓 Bachelor of Science in Computer Science (BSCS) from **University of Karachi, UBIT**.  
 - 💻 Frontend Web Developer with a passion for building intuitive and scalable user experiences.  
 - 🌐 Actively exploring **Backend technologies** to become a well-rounded full-stack developer.  
 
----
-
 ## 🌐 Portfolio
-🔗 [My Portfolio](https://devattaulnoor.github.io/Portfolio)
-
----
+🔗 [My Portfolio](https://devattaulnoor.github.io/Portfolio)  
 
 ## 🛠️ Tech Stack
-
 <!-- Frontend -->
 **Frontend Development**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,8 +42,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devattaulnoor&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
@@ -58,5 +49,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devattaulnoor&theme=dark" alt="GitHub Streak" />
 </p>
-
----
