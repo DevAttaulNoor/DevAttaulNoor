@@ -7,8 +7,10 @@
 - 💻 Frontend Web Developer with a passion for building intuitive and scalable user experiences.  
 - 🌐 Actively exploring **Backend technologies** to become a well-rounded full-stack developer.  
 
+
 ## 🌐 Portfolio
-🔗 [My Portfolio](https://devattaulnoor.github.io/Portfolio)  
+🔗 [My Portfolio](https://devattaulnoor.github.io/Portfolio)
+
 
 ## 🛠️ Tech Stack
 <!-- Frontend -->
