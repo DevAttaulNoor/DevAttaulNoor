@@ -2,6 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Atta</h1>
 <h3 align="center">Frontend Engineer | Aspiring Full-Stack Developer</h3>
 
+
 ## 🚀 About Me
 - 🎓 Bachelor of Science in Computer Science (BSCS) from **University of Karachi, UBIT**.  
 - 💻 Frontend Web Developer with a passion for building intuitive and scalable user experiences.  
@@ -43,6 +44,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ## 📊 GitHub Stats
 <p align="center">
