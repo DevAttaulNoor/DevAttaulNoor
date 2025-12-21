@@ -2,13 +2,11 @@
 <h3 align="center">Frontend Engineer | Aspiring Full-Stack Developer</h3>
 </br>
 
-
 ## 🚀 About Me
 - 🎓 Bachelor of Science in Computer Science (BSCS) from **University of Karachi, UBIT**.  
 - 💻 Frontend Web Developer with a passion for building intuitive and scalable user experiences.  
 - 🌐 Actively exploring **Backend technologies** to become a well-rounded full-stack developer.  
 </br>
-
 
 ## 🌐 Portfolio
 🔗 [My Portfolio](https://devattaulnoor.github.io/Portfolio)
